@@ -1,2 +1,2 @@
 # CourtCounter
-Counts the score of a Basketball game
+App that counts the score of a Basketball game (made on Java and Android Studio)
